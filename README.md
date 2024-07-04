@@ -12,3 +12,7 @@ My interests are:
 And other files:
 - Proof writing, in file `Proof.typ`
 - Shorthands, e.g., "lam" for "lambda", in file `Short.typ`
+
+One can clone this repository and link it to the local path
+according to the document of typst, then use it locally with
+the typst `import local` command.
