@@ -160,7 +160,7 @@
 
 // topo
 #let pow = $cal(P)$
-#let subrel = $lt.eq.curly$
+#let subrel = $lt.eq?$
 #let subeqv = $equiv$
 #let Sub = $sans("Sub")$
 
